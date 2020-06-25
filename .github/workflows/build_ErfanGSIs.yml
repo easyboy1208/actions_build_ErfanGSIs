@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus7T/OBT/OnePlus7THydrogen_13.X.06_OTA_006_all_2006111718_dd8bee2682cf46c8.zip
-  ROM_NAME: Generic
+  ROM_URL: https://hugeota.d.miui.com/20.6.18/miui_CEPHEUS_20.6.18_6674d67d0a_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
